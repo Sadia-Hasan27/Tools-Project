@@ -45,8 +45,10 @@
                         </ul>
                        </li>
                        <li><a href="contact.php">Contact Us</a></li>
-                       <li><a href="messages">Feedback</a></li>
-                        <button type="button" class="btn-light"><a href="logout-user.php">Logout</a></button>  
+                       <li><a href="messages.php">Feedback</a></li>
+                       <li><a href="index.php">Logout</a></li>
+
+                        <!-- <button type="button" class="btn-light"><a href="logout-user.php">Logout</a></button>   -->
 
                     </ul>
             </nav>
