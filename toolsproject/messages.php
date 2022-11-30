@@ -158,7 +158,7 @@ if(isset($_POST['send'])){
          <h3 class="title"><b>Frequently asked questions</b></h3>
          <div class="box active">
             <h3>how can I Booking?</h3>
-            <p>Please go to the booking section ,then click on price-chart you can find there 'Add to cart' option just click on it a login form will appear login in it then again go to price-chart option  then go to 'My cart' above on this page. Just click on it a page  will a page will show where your order entryed then choose your quantity and then fill the form then click on 'make a quote' then  You will show a alert box 'Order placed' that's it , your booking will be  confirm .</p>
+            <p>Please go to the booking section ,then click on price-chart you can find there 'Add to cart' option just click on it, then go to 'My cart' above on this page. Just click on it a page  will a page will show where your order entryed then choose your quantity and then fill the right side form then click on 'make a quote' then  You will show a alert box 'Order placed' that's it , your booking will be  confirm .</p>
          </div>
          <!-- <div class="box active">
             <h3>how to cancel Booking?</h3>
